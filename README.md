@@ -2,7 +2,7 @@
 
 # **ARTVoice Accelerator Framework**
 
-> **TL;DR**: Build real-time voice agents on Azure—one hyperscale stack, omnichannel (ACS), code-first, modular, ops-friendly & extensible.
+> **TL;DR**: Build real-time voice agents on Azure—one hyperscale stack, omnichannel (ACS), code-first, modular, ops-friendly & extensible..
 
 <img src="docs/assets/ARTAGENT.png" align="right" height="220" alt="ARTAgent Logo" />
 
@@ -165,4 +165,5 @@ Released under MIT. This sample is **not** an official Microsoft product—valid
 <br>
 
 > [!IMPORTANT]  
+
 > This software is provided for demonstration purposes only. It is not intended to be relied upon for any production workload. The creators of this software make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the software or related content. Any reliance placed on such information is strictly at your own risk.
